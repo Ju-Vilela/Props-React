@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Playfair+Display&display=swap');
+
+.container {
+
+    padding: 1rem;
+    box-shadow: 0 0 30px #83e0ff;
+    background-color: #b7edff;
+    width: 57rem;
+    height: 30rem;
+
+    /*font-family: 'Indie Flower', cursiva;*/
+    font-family: 'Playfair Display', serifa;
+  
+}
+
+h1.texto {
+    border-bottom: 2px solid #00bfff;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+div.Lista {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 57rem;
+    box-sizing: border-box;
+}
