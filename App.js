@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css'
 
 import {Footer, Header} from './Componentes/Header-Footer/';
-import Pag_Um from './Componentes/Paginas/Pag-Um/'
+import Pagina from './Componentes/Pagina/'
 
 function App() {
 
@@ -13,7 +13,7 @@ function App() {
 
       <div className='Corpo'>
 
-        <Pag_Um />
+        <Pagina />
 
       </div>
 
